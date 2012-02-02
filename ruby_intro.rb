@@ -38,5 +38,5 @@ end
 
 class RubyIntro
 s="I am learning Ruby"
-s.scan("learning)
+s.scan("learning")
 end
